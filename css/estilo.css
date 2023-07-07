@@ -72,3 +72,9 @@ h4 {
     text-align: center;
     font-family: Arial black;
 }
+
+#pright {
+    text-align: right;
+    font-family: Arial black;
+    padding-bottom: 10%;
+}
