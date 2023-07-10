@@ -2,18 +2,6 @@ body {
     background-image: url("../imagens/fundo.jpg");
 }
 
-#s1 {
-    text-align: center;
-    font-family: Arial;
-    padding-top: 2%;
-    padding-bottom: 15px;
-}
-
-h1 {
-    text-align: center;
-    font-family: Arial black;
-}
-
 h5 {
     text-align: left;
     font-family: Arial black;
@@ -77,4 +65,22 @@ h4 {
     text-align: right;
     font-family: Arial black;
     padding-bottom: 10%;
+}
+
+#pimg {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.imgseta {
+    width: 68px;
+    height: 68px;
+    opacity: 0.5;
+}
+
+.imgredes {
+    width: 68px;
+    height: 68px;
+    float: left;
+    padding-right: 2px;
 }
